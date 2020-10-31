@@ -1,5 +1,4 @@
-# motivationalCats
-## Get motivated by some cat pictures and quotes
+![Motivational Cats Banner](https://raw.githubusercontent.com/MayraPerpetua/motivationalCats/add-banner/img/Banner.png)
 
 ### About
 This is an open source project that anyone can feel free to work on and contribute to. Get creative and have fun.
